@@ -24,7 +24,7 @@
     "firebase": "4.6.2",
     "lru-cache": "^4.1.1",
     "route-cache": "0.4.3",
-    "serve-favicon": "^2.4.5",
+    "serve-favicon": "^2.5.0",
     "vue": "^2.5.22",
     "vue-router": "^3.0.1",
     "vue-server-renderer": "^2.5.22",
